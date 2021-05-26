@@ -1,7 +1,9 @@
+# This code counts how many people are in an image
+
 import face_recognition
 
-image1 = face_recognition.load_image_file('./Images/group1.jpg')
-image2 = face_recognition.load_image_file('./Images/group2.jpg')
+image1 = face_recognition.load_image_file('./images/groups/group1.jpg')
+image2 = face_recognition.load_image_file('./images/groups/group2.jpg')
 face_location_1 = face_recognition.face_locations(image1)
 face_location_2 = face_recognition.face_locations(image2)
 
