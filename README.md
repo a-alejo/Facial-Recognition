@@ -1,2 +1,2 @@
 # Facial-Recognition
-Facial Recognition using Python Face Recognition library
+Multiple Facial Recognition projects using the Python Face Recognition library
