@@ -1,4 +1,4 @@
-# This code matches faces and identifies defined person name with a blue box with and displays unmatched
+# This code matches faces and identifies defined person name with a blue box and displays unmatched
 # persons as unknown
 
 import face_recognition
