@@ -1,4 +1,4 @@
-# This code has face recognition which identifies if its the same person in another photo
+# This code has face recognition that identifies if a person is in another photo
 
 import face_recognition
 
